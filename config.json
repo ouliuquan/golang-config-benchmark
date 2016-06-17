@@ -1,0 +1,7 @@
+{
+  "posgres": {
+    "user": "pelletier",
+    "password": "mypassword",
+    "port": 5432
+  }
+}
